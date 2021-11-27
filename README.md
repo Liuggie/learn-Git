@@ -9,3 +9,4 @@ x-special/nautilus-clipboard
 change by alex
 *pycharm改动测试
 *git remote add origin 
+*get push
