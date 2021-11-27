@@ -8,4 +8,4 @@ x-special/nautilus-clipboard
 *一点小的改动
 change by alex
 *pycharm改动测试
-
+*git remote add origin 
