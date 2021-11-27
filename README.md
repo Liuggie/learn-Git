@@ -7,4 +7,5 @@ x-special/nautilus-clipboard
 想到了第一种方案
 *一点小的改动
 change by alex
+*pycharm改动测试
 
